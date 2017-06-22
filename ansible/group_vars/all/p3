@@ -27,3 +27,9 @@ p3_routers: []
 # List of nova flavors in the p3 project. Format is as required by the
 # stackhpc.os-flavors role.
 p3_flavors: []
+
+###############################################################################
+# Configuration of magnum cluster templates.
+
+# List of magnum cluster templates.
+p3_container_clusters_templates: []
